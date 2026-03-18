@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "devDependencies": {
-    "mocha": "^10.8.2"
+  "dependencies": {
+    "mocha": "^11.7.5"
   }
 }
